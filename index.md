@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Cash IQ
 
-You can use the [editor on GitHub](https://github.com/rahmanabir/cashiq-support/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to CashIQ. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cash IQ allows parents to set chores for their children to complete, rewarding them with in-app coins as they do finish their chores. Children can redeem these coins by creating wishlists with items they want. Parents can set prices for these items which the children can redeem using their hard earned coins. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahmanabir/cashiq-support/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Cash IQ aims to teach young children the importance of money and to teach them to make better financial descisions. 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with the app? Contact us on our [email](info@manush.tech) and we’ll help you sort it out.
